@@ -25,9 +25,17 @@ h1{
     color: #72e46eee;
 }
 
+.footer-section{
+    color: #c561f3;
+}
+
 a{
     color: #e2e2e2;
     text-decoration: none;
+}
+
+i{
+    padding-right: 1em;
 }
 
 i:hover{
@@ -40,4 +48,20 @@ img{
     top: 2em;
     right: 20em;
     border-radius: 20px;
+}
+
+#email-icon:hover{
+    color: #faf885;
+}
+
+#twitter-icon:hover{
+    color: #56dde7;
+}
+
+#facebook-icon:hover{
+    color: #2f4ae2;
+}
+
+#instagram-icon:hover{
+    color: #df4242;
 }
