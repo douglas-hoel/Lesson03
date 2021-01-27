@@ -1,3 +1,15 @@
+body{
+    background-color: #1d1d1d;
+    color: #e7e7e7;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+i{
+    color: #e2e2e2;
+    text-decoration: none;
+}
+
 img{
     width: 300px;
 }
