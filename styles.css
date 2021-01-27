@@ -5,11 +5,39 @@ body{
     padding-right: 200px;
 }
 
-i{
+h1{
+    font-family: Courier New, Courier, monospace;
+}
+
+.student-section{
+    color: #e3a13d;
+}
+
+.project-section{
+    color: #4c56e6;
+}
+
+.experience-section{
+    color: #e7e96e;
+}
+
+.education-section{
+    color: #72e46eee;
+}
+
+a{
     color: #e2e2e2;
     text-decoration: none;
 }
 
+i:hover{
+    color: #4261eb;
+}
+
 img{
     width: 300px;
+    position: absolute;
+    top: 2em;
+    right: 20em;
+    border-radius: 20px;
 }
